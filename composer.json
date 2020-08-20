@@ -1,0 +1,16 @@
+{
+    "name": "caiguanrong/tt-microapp",
+    "description": "字节跳动小程序SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "蔡关荣",
+            "email": "caicai105230@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.2 || ^7.0"
+    }
+}
